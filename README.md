@@ -1,4 +1,4 @@
-# 18182-brightcove-player-sample-float-and-park-player
+# Brightcove Player Sample: Float and Park Player
 
 This repository contains all the code for your convenience:
 
